@@ -1,0 +1,3 @@
+company name: TECHNOFIST 
+required skills: imageprocessing,python,jsp,datamining,jdbc,hibernate,machinelearning,artificialintelligence,spring,databasemanagement,java,struts,cloudcomputing 
+more info: https://www.timesjobs.com/job-detail/python-developers-technofist-bengaluru-bangalore-0-to-1-yrs-jobid-JfjjJ7Tp4XZzpSvf__PLUS__uAgZw==&source=srp 
